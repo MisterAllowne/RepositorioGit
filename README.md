@@ -1,2 +1,0 @@
-# RepositorioGit
- Personel Codes
